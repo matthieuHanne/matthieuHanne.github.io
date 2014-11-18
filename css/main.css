@@ -1,8 +1,4 @@
 /*******************************************
-3ColorResume
-Author: office@kamsolutions.pl
-*******************************************/
-/*******************************************
 FONTS
 *******************************************/
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800);
@@ -283,10 +279,10 @@ SKILLS
   margin-right: 0;
 }
 .legend-left:nth-child(2) span{
-  margin-left: -25px;
+  margin-left: -55px;
 }
 .legend-right:nth-child(3) span{
-  margin-right: -20px;
+  margin-right: -30px;
 }
 .legend-right{
   text-align: right;
